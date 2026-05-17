@@ -15,7 +15,7 @@ A simple weather application built using HTML, CSS, and JavaScript.
 - OpenWeather API
 
 ## Live Demo
-https://z2zohashaikh.github.io/weather-app/
+[Live Demo](https://z2zohashaikh.github.io/weather-app/)
 
 ## Screenshot
 ![Weather App Screenshot](screenshot.png)
